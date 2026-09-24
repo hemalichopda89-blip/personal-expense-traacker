@@ -1,4 +1,3 @@
-# personal-expense-traacker
 #  Personal Expense Tracker
 
 A modern and intuitive web application designed to help users track, manage, and analyze their daily personal expenses efficiently.
